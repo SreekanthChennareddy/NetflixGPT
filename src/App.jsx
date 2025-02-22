@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>NetflixGPT</h1>
+      <h1 className="text-3xl font-bold underline bg-red-400">NetflixGPT</h1>
     </>
   );
 }
